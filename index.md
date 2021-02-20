@@ -20,3 +20,8 @@
 | 4 | Monster Seeking Monster | 3-7 |
 | 4 | Bracketeering | 3-16 |
 | 4 | Civic Doodle | 3-8 |
+| 5 | You Don't Know Jack: Full Stream | 1-8 |
+| 5 | Split the Room | 3-8 |
+| 5 | Mad Verse City | 3-8 |
+| 5 | Patently Stupid | 3-8 |
+| 5 | Zeeple Dome | 1-6 |
