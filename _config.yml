@@ -1,6 +1,6 @@
 # Configurations
-title:            Jackbox
-longtitle:        Aaron's Jackbox games
+title:            Jackbox Games
+longtitle:        An Accounting of Jackbox games
 author:           samureiser
 email:            samureiser@gmail.com
 description: >
@@ -52,3 +52,7 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+
+# Other Configurations
+# https://jekyllrb.com/docs/configuration/options/
+timezone: America/Chicago
