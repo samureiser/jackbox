@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Jackbox
+longtitle:        Aaron's Jackbox games
+author:           samureiser
+email:            samureiser@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  A list of my Jackbox games.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://samureiser.github.io/'
+baseurl:          '/jackbox'
 rss:              RSS
 
 toc:
